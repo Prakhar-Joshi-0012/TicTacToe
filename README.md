@@ -3,6 +3,7 @@
 Simple Tic Tac Toe game created in Go using sdl2 and openGL. 
 * You are player O and Computer is player X. 
 * You play first
+
 ![Alt StartScreen](/impls/start.png)
 ![Alt PlayScreen](/impls/play.png)
 ![Alt FinishScreen](/impls/finish.png)
